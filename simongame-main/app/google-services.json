@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "482472031280",
+    "project_id": "simon-says-d3e85",
+    "storage_bucket": "simon-says-d3e85.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482472031280:android:c5bdec51dc191b5b2e69f5",
+        "android_client_info": {
+          "package_name": "com.epfl.esl.simongame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX8ajoquyx3mnRDpIl86IoUOz6-YNeDo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
